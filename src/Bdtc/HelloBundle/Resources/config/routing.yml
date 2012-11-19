@@ -1,0 +1,3 @@
+bdtc_hello_homepage:
+    pattern:  /
+    defaults: { _controller: BdtcHelloBundle:Default:index }
