@@ -1,0 +1,7 @@
+parameters:
+#    bdtc_hello.example.class: Bdtc\HelloBundle\Example
+
+services:
+#    bdtc_hello.example:
+#        class: %bdtc_hello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
